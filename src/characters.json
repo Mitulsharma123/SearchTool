@@ -4,20 +4,20 @@
         "name": "Angelina Jolie Voight",
         "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/1Anjelina-Jolie.jpg",
         "occupation": "Actress, Director",
-        "path": "./About"
+        "path": "/About"
       },
       {
         "id": 2,
         "name": "Nina Debrove",
         "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/8nina_Dobrev.jpg",
         "occupation": "Model, Actress",
-        "path": "./Contact"
+        "path": "/Contact"
       },
       {
         "id": 3,
         "name": "Jessica Alba",
         "image": "http://beauty-around.com/images/sampledata/Hollywood_Actress/3Alba.jpg",
         "occupation": "Model, Actress",
-        "path": "./Products"
+        "path": "/Products"
       }
 ]    

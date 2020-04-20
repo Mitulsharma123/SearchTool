@@ -11,7 +11,7 @@ function About(){
         <div className='container-fluid d-flex justify-content-center'>
           <div className='row'>
       {characters.map(character => (
-        <div className='col-md-4'>
+        <div className='col-md-4' key={character.id}>
           <CharacterCard name={character.name} 
           image={character.image} 
           occupation={character.occupation}

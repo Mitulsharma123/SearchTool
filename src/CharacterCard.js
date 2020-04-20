@@ -14,7 +14,8 @@ function Charactercard(props){
           </div>
             <CardTitle>{props.name}</CardTitle>
             <CardText>{props.occupation}</CardText>
-            <input type = "text" className="input" placeholder="Search.."/>
+            {!props.path ? <input type = "text" className="input" placeholder="Search.."/> : null}
+            
             <Button onClick={()=>props.handler(props.path)} variant="btn btn-success">Click</Button>
       </Card>  
       </div>

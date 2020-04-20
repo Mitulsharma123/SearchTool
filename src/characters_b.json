@@ -3,7 +3,6 @@
     "id": 1,
     "name": "Deadpool",
     "image": "https://vignette.wikia.nocookie.net/marvelmovies/images/6/66/Deadpool_promo.png/revision/latest?cb=20150707202600",
-    "occupation": "Hero",
-    "path":"/home/mitul/my_react_project/homepage/src/Components/Contact.js"
+    "occupation": "Hero"
   }
 ]

@@ -1,3 +1,8 @@
+.app {
+  position: relative;
+  min-height: 100vh;
+  height: auto;
+}
 .card {
   background: #fff;
   border: 5px solid #fff;
